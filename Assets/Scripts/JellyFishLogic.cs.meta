@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fb60d28c0e013dd4da1901ae1225d4ca
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - myEnemy: {fileID: 11400000, guid: 0ec987f31ee5f9e4fae212bf0c4cec07, type: 2}
+  - JellyFish: {fileID: 9100000, guid: 049acc3e6fcea5c49bf7b8a8ef7995f3, type: 2}
+  - PlayerInfo: {fileID: 11400000, guid: ed2c4c7f3fad2f54186e5aa55c7e695d, type: 2}
+  - Player: {fileID: 8738599086138324001, guid: 21fe81e1c4e19ee4197b2ad9b8b68df3, type: 3}
+  - DeathParticles: {fileID: 188679780222249570, guid: 03e3c56ed91db4b72a3ab821d4170bf2, type: 3}
+  - JellyFishBullet: {fileID: 6313421417062662399, guid: 639f23631ad730548a11160ea8b49efd, type: 3}
+  - Background1: {instanceID: 0}
+  - Background2: {instanceID: 0}
+  - Background3: {instanceID: 0}
+  - Background4: {instanceID: 0}
+  - winningBG: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

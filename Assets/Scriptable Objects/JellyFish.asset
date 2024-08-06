@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b27ab6e792b4203488f13d8da57e72b5, type: 3}
+  m_Name: JellyFish
+  m_EditorClassIdentifier: 
+  speed: 3
+  sprite: {fileID: 351189279, guid: 3eeebafb2f8c14178bbfaaba7e26cb60, type: 3}
+  sinkingSpeed: 3
+  ProjectileSpeed: 5

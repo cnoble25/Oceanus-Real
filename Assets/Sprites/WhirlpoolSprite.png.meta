@@ -1,0 +1,730 @@
+fileFormatVersion: 2
+guid: 00b2add2bbaa449279a3466e1369fcf7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WhirlpoolSprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8640
+        width: 2560
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940f7ecc942fa4e9aac0ba0322e6c270
+      internalID: -845591156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhirlpoolSprite_1
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 8640
+        width: 2560
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9904c2f1fdb4245d09727cbefb62c1af
+      internalID: -1195523099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhirlpoolSprite_2
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 8640
+        width: 2560
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6db1dca00764ea48e31b81df6e8d1b
+      internalID: -1688436463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhirlpoolSprite_3
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 8640
+        width: 2560
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ae6cb268c3a46f898af29924bde13b
+      internalID: -992379498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhirlpoolSprite_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7200
+        width: 2560
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d688e9f87da794e8fbd4190ce49617ad
+      internalID: -782045845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhirlpoolSprite_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 7200
+        width: 2560
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cd5967e813d42a69a69aaf2d127af1
+      internalID: 1886781944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhirlpoolSprite_6
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 7200
+        width: 2560
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a14843a8d1f47c58f21d1b20963c17
+      internalID: 1669297270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhirlpoolSprite_7
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 7200
+        width: 2560
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae08a8987f8b47af96aed30778f05f7
+      internalID: 996833677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhirlpoolSprite_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5760
+        width: 2560
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef49a16fe77e74f90a720a49a1d9246f
+      internalID: -286615006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhirlpoolSprite_9
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 5760
+        width: 2560
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6722ee9c10fd4d41b1728fe8ebedd2e
+      internalID: -797071162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhirlpoolSprite_10
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 5760
+        width: 2560
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcb9a295d9ea4be8bb57799d62cea60
+      internalID: -756192912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhirlpoolSprite_11
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 5760
+        width: 2560
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b152029840dc542969f5af9777676dcc
+      internalID: 1345289346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhirlpoolSprite_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 2560
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f9b279619544aff9864ff7fab26991
+      internalID: 2098514588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhirlpoolSprite_13
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 4320
+        width: 2560
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2702dfa24fd054d7eb7697ab951e5842
+      internalID: 133705953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhirlpoolSprite_14
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 4320
+        width: 2560
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278e832fce2a74ecfba75c2165b50c16
+      internalID: 1541169355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhirlpoolSprite_15
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 4320
+        width: 2560
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259c38d67aed94ce2aea58045809e686
+      internalID: 1389980554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhirlpoolSprite_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 2560
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f49e11aaeaf4f418d173de933a1a43
+      internalID: 1465414862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhirlpoolSprite_17
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2880
+        width: 2560
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00090a6f52b034393bf00fb2003973c6
+      internalID: -1813339222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhirlpoolSprite_18
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2880
+        width: 2560
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f7ca878938d492382cc8f491efa096
+      internalID: 546087497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhirlpoolSprite_19
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 2880
+        width: 2560
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e32dfc4a306417cbbec226e7a4b6b4
+      internalID: 1570757414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhirlpoolSprite_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 2560
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b90243fc58024fddbb42256bdf1bae5
+      internalID: 780205882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhirlpoolSprite_21
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1440
+        width: 2560
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c920793cf321c4c63b96e48fa6a66bea
+      internalID: 826017758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhirlpoolSprite_22
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1440
+        width: 2560
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5b779ff03234028a3a907c33c49e46
+      internalID: -1584095453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhirlpoolSprite_23
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 1440
+        width: 2560
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f62770e84d1f426890a6eee08c36623
+      internalID: 56053224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhirlpoolSprite_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2560
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e66845463014ebbbc6e35727aaf1e7
+      internalID: -1304897271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhirlpoolSprite_25
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 2560
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3983023feca341688e0aee4df3b31ad
+      internalID: -775963804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhirlpoolSprite_26
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 0
+        width: 2560
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb82fbaee9334e8ca75715718dd6533
+      internalID: -1258741208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhirlpoolSprite_27
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 0
+        width: 2560
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fed1474977946b4bc2f787bd52f28a
+      internalID: -1238156126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      WhirlpoolSprite_0: -845591156
+      WhirlpoolSprite_1: -1195523099
+      WhirlpoolSprite_10: -756192912
+      WhirlpoolSprite_11: 1345289346
+      WhirlpoolSprite_12: 2098514588
+      WhirlpoolSprite_13: 133705953
+      WhirlpoolSprite_14: 1541169355
+      WhirlpoolSprite_15: 1389980554
+      WhirlpoolSprite_16: 1465414862
+      WhirlpoolSprite_17: -1813339222
+      WhirlpoolSprite_18: 546087497
+      WhirlpoolSprite_19: 1570757414
+      WhirlpoolSprite_2: -1688436463
+      WhirlpoolSprite_20: 780205882
+      WhirlpoolSprite_21: 826017758
+      WhirlpoolSprite_22: -1584095453
+      WhirlpoolSprite_23: 56053224
+      WhirlpoolSprite_24: -1304897271
+      WhirlpoolSprite_25: -775963804
+      WhirlpoolSprite_26: -1258741208
+      WhirlpoolSprite_27: -1238156126
+      WhirlpoolSprite_3: -992379498
+      WhirlpoolSprite_4: -782045845
+      WhirlpoolSprite_5: 1886781944
+      WhirlpoolSprite_6: 1669297270
+      WhirlpoolSprite_7: 996833677
+      WhirlpoolSprite_8: -286615006
+      WhirlpoolSprite_9: -797071162
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

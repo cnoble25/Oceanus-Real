@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Enemy
+  - ActiveZone
+  - Civilian
+  - CivilianDeathZone
+  - Ceiling
+  - enemyBullet
+  - Offscreen
+  - start
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - RotatableEntities
+  - Ceiling
+  - the UI is last
+  - Background
+  - winning
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 688845411
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI button stufff
+    uniqueID: 3654228307
+    locked: 0

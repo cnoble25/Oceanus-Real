@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 48054ea122c2c9145ad25205d2445f05
+  - enabled: 0
+    path: Assets/Scenes/Carson's Scene.unity
+    guid: 7b3c62ca9fe3f8f4d93280202173a5f2
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 37a3269ab4bdba840b54171dcda78fcb
+  - enabled: 1
+    path: Assets/Scenes/UIScene.unity
+    guid: 7464632602216d5418e5510032f165c8
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 003b89315c6bd8b499e5f3e9c4a4ee7d
+  - enabled: 1
+    path: Assets/Scenes/Nics Scene.unity
+    guid: 259c812204364437d825379b33e0e69c
+  - enabled: 1
+    path: Assets/Scenes/Instructions.unity
+    guid: 434e5a07b971c485786c4d34cfba4b13
+  - enabled: 1
+    path: Assets/Scenes/DeeperWater.unity
+    guid: bda1fe2bd725f4ccfadf480d3cc5a992
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: a00e90aedd7484a4e89b1b96a61d96b6, type: 2}

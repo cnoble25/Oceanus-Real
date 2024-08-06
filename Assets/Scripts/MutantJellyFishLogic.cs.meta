@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3a80127f0ebfc5b4790607fcf7cdce5f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - myEnemy: {fileID: 11400000, guid: 63176dcc3dfab984f82b8afd54afd0a4, type: 2}
+  - MutantJellyFish: {fileID: 9100000, guid: b1502b80cef2c7747bca3b57e156cb5e, type: 2}
+  - Player: {fileID: 8738599086138324001, guid: 21fe81e1c4e19ee4197b2ad9b8b68df3, type: 3}
+  - JellyFishBullet: {fileID: 6313421417062662399, guid: 639f23631ad730548a11160ea8b49efd, type: 3}
+  - DeathParticles: {fileID: 188679780222249570, guid: 03e3c56ed91db4b72a3ab821d4170bf2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
